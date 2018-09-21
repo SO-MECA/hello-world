@@ -1,2 +1,1 @@
-# hello-world
-First Project - Hello World :)
+First Project Hello World!
